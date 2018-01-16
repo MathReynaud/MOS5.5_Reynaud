@@ -23,6 +23,12 @@ William Playfar est un écossais qui a lui seul a développé un grand nombre de
 
 Ce diagramme illustre les différentes importations et exportations de l'Ecosse. 
 
+Par la suite, cette répresentation sera de nouveau utilisée par exemple par André-Michel Guerry en 1883 dans l'<I>Essai sur la statistiques morale de la France</I>.
+
+<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Essai_sur_la_statistique_morale_de_la_France%2C_Plate_VII%2C_1833.jpg/468px-Essai_sur_la_statistique_morale_de_la_France%2C_Plate_VII%2C_1833.jpg" width="400" align="center">
+
+
+
 https://fr.wikipedia.org/wiki/Représentation_graphique_de_données_statistiques
 
 http://jplusplus.github.io/guide-du-datajournalisme/pages/0706.html
