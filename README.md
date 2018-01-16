@@ -45,6 +45,14 @@ Le but des diagrammes en bâtons empilés est des comparer les totaux et d'ident
 
 Par exemple pour l'exemple ci-dessous, on remariqe facielemnt que la stratégie 5 a été bien moins efficace que toutes les autres stratégies, et ceci est dû au fait que très peu de produit D on été vendus. 
 
+* ### Diagrammes combinés
+
+Le diagramme combiné est une visualisation qui regroupe un diagramme en bâton et un graphique linéaire. On peut par exemple reprendre l'exemple précédent pour obtenir les mêmes informations mais sous une forme différente. 
+
+<image src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9cdfe396-4155-4e7f-9c70-6fb2e290b71d/7-combined-multi-series-bar-and-line-chart-800w-opt.png" width="500" align="center">
+
+Cette fois-ci le total est représenté par un graphique linéaire. De manière générale, ce genre de diagramme est souvent moins clair et des diagrammes en bâtons empilés permettent d'obtenir les mêmes informations avec une lecture plus facile. 
+
 
 Définition Générale
 https://fr.wikipedia.org/wiki/Représentation_graphique_de_données_statistiques
@@ -58,5 +66,5 @@ http://www.jpowered.com/graphs-and-charts/bar-chart-history.htm
 Différences entre diagrammes en batons et histogrammes
 http://mathematiques.ac-bordeaux.fr/profplus/docmaths/statistiques/artigues/chapitre2.pdf
 
-Pour les variantes 
+Diagrammes empilés
 https://www.smashingmagazine.com/2017/03/understanding-stacked-bar-charts/
