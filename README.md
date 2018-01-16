@@ -26,3 +26,5 @@ Ce diagramme illustre les différentes importations et exportations de l'Ecosse.
 https://fr.wikipedia.org/wiki/Représentation_graphique_de_données_statistiques
 
 http://jplusplus.github.io/guide-du-datajournalisme/pages/0706.html
+
+http://mathematiques.ac-bordeaux.fr/profplus/docmaths/statistiques/artigues/chapitre2.pdf
