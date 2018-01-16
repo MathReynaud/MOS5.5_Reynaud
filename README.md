@@ -11,13 +11,13 @@ Il en existe principalement deux types de diagrammes en bâtons :
 
 <image src="http://www.itse.be/statistique2010/res/Fig_org_04.jpg" alt="Histogramme Simple" width="400" align="center">
 
-* Les diagrammes en bâtons horizontal. Cette fois-ci c'est la largeur du rectangle qui réprésente la valeur de la variable continue et la hauteur de ce rectangle qui n'a pas d'importances statistiques. Ci dessous se trouve un exemple très simple.
+* Les diagrammes en bâtons horizontal. Cette fois-ci c'est la largeur du rectangle qui réprésente la valeur de la variable continue et la hauteur de ce rectangle qui n'a pas d'importance statistique. Ci dessous se trouve un exemple très simple.
 
 <image src="https://sites.google.com/site/rgraphiques/_/rsrc/1495529900208/realiser-des-graphiques-avec-le-logiciel-r/diagrammes-en-barres/diagramme-en-batons-a-barres-horizontales/Rplot001.jpg" alt="Diagramme horizontal" width="400" align="center">
 
 ## Historique 
 
-William Playfar est un écossais qui a lui seul a développé un grand nombre de graphiques que nous utilisons encore aujourd'hui. C'est en 1786, dans son livre Commercial and Political Atlas qu'il a crée le premier diagramme en bâtons. 
+William Playfar est un écossais qui a lui seul a développé un grand nombre de graphiques que nous utilisons encore aujourd'hui. C'est en 1786, dans son livre <I>Commercial and Political Atlas</I> qu'il a crée le premier diagramme en bâtons. 
 
 <image src="http://jplusplus.github.io/guide-du-datajournalisme/figs/incoming/06-TT-01.gif" alt="Premier diagramme bâton" width="400" align="center">
 
