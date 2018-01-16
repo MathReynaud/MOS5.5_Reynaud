@@ -63,21 +63,12 @@ Cela peut permettre de se placer par exemple dans un plan, mais il faut bien pre
 
 ## Conclusion
 
-Les diagrammes en bâtons font parties des représenations visuelles les plus utilisées. Leur applications sont très nombreuses et tout le monde (ou presque) en a déjà utilisé. Il sont d'une efficacité redoutable pour representer un grand nombre de données, et ont l'avanatage d'être compris de tous. Ils sont un excellent outils, qu'il convient de ne pas oublier. 
+Les diagrammes en bâtons font parties des représenations visuelles les plus utilisées. Leurs applications sont très nombreuses et tout le monde (ou presque) en a déjà utilisé. Il sont d'une efficacité redoutable pour representer un grand nombre de données, et ont l'avanatage d'être compris de tous. Ils sont un excellent outils, qu'il convient de ne pas oublier. 
 
 ## Source
 
 * <a href="https://fr.wikipedia.org/wiki/Représentation_graphique_de_données_statistiques">Définition Générale</a>
-
-
-Examples historiques
-http://jplusplus.github.io/guide-du-datajournalisme/pages/0706.html
-
-Diagramme en bâton du Français 20 ans plus tôt
-http://www.jpowered.com/graphs-and-charts/bar-chart-history.htm
-
-Différences entre diagrammes en batons et histogrammes
-http://mathematiques.ac-bordeaux.fr/profplus/docmaths/statistiques/artigues/chapitre2.pdf
-
-Diagrammes empilés
-https://www.smashingmagazine.com/2017/03/understanding-stacked-bar-charts/
+* <a href="http://jplusplus.github.io/guide-du-datajournalisme/pages/0706.html">Examples historiques</a>
+* <a href="http://www.jpowered.com/graphs-and-charts/bar-chart-history.htm">Diagramme en bâton du Français 20 ans plus tôt</a>
+* <a href="http://mathematiques.ac-bordeaux.fr/profplus/docmaths/statistiques/artigues/chapitre2.pdf">Différences entre diagrammes en batons et histogrammes</a>
+* <a href="https://www.smashingmagazine.com/2017/03/understanding-stacked-bar-charts/">Diagrammes empilés</a>
