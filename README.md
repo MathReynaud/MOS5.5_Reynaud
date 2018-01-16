@@ -61,11 +61,14 @@ Cela peut permettre de se placer par exemple dans un plan, mais il faut bien pre
 
 <image src="https://i.stack.imgur.com/BumCd.png" width="500" align="center">
 
+## Conclusion
 
+Les diagrammes en bâtons font parties des représenations visuelles les plus utilisées. Leur applications sont très nombreuses et tout le monde (ou presque) en a déjà utilisé. Il sont d'une efficacité redoutable pour representer un grand nombre de données, et ont l'avanatage d'être compris de tous. Ils sont un excellent outils, qu'il convient de ne pas oublier. 
 
+## Source
 
-Définition Générale
-https://fr.wikipedia.org/wiki/Représentation_graphique_de_données_statistiques
+* <a href="https://fr.wikipedia.org/wiki/Représentation_graphique_de_données_statistiques">Définition Générale</a>
+
 
 Examples historiques
 http://jplusplus.github.io/guide-du-datajournalisme/pages/0706.html
