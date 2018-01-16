@@ -4,7 +4,7 @@
 
 ## Définition générale
 
-Les bar chart, ou encore diagramme en bâtons sont des représentations très classiques de données. Les caractères sont soit qualitatifs, soit quantitatif discrets. Les diagrammes en bâtons se distinguent donc des histogrammes qui permettent de traiter le cas des caractères quantitatif continu. 
+Les bar chart, ou encore diagramme en bâtons sont des représentations très classiques de données. Les caractères sont soit qualitatifs, soit quantitatif discrets. Les diagrammes en bâtons se distinguent donc des histogrammes qui permettent de traiter le cas des caractères quantitatifs continus. 
 
 Le principal but des diagrammes en bâtons est de comparer des groupes de données entre elles.
 
