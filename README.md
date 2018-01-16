@@ -6,6 +6,8 @@
 
 Les bar chart, ou encore diagramme en bâtons sont des représentations très classiques de données. Les caractères sont soit qualitatifs, soit quantitatif discrets. Les diagrammes en bâtons se distinguent donc des histogrammes qui permettent de traiter le cas des caractères quantitatif continu. 
 
+Le principal but des diagrammes en bâtons est de comparer des groupes de données entre elles.
+
 Il en existe principalement deux types de diagrammes en bâtons :
 * les diagrammes en bâtons vertical. On reprédente pour chaque modalité d'une variable discrète un rectangle dont la hauteur représente la valeur d'une variable continue et dont la largeur n'a pas d'importance. Ci-dessous se trouve un exemple très simple. 
 
@@ -31,7 +33,17 @@ Par la suite, cette répresentation sera de nouveau utilisée par exemple par An
 
 <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Essai_sur_la_statistique_morale_de_la_France%2C_Plate_VII%2C_1833.jpg/468px-Essai_sur_la_statistique_morale_de_la_France%2C_Plate_VII%2C_1833.jpg" width="400" align="center">
 
+## Variantes
 
+Il existe plusieurs variantes des diragrammes en bâtons.
+
+### Diagrammes en bâtons empilés
+
+Le but des diagrammes en bâtons empilés est des comparer les totaux et d'identifier rapidement les variations au seins des catégories pour comprendre ce qui peut avoir affecté la variation globale. 
+
+<image src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/948c895a-e1b1-4c8f-b7f3-e0555a4ae589/5-stacked-bar-chart-800w-opt.png" width="400" align="center">
+
+Par exmeple pour l'exemple ci-dessous, on remariqe facielemnt que la stratégie 5 a été bien moins efficace que toutes les autres stratégies, et ceci est dû au fait que très peu de produit D on été vendus. 
 
 
 Définition Générale
@@ -40,5 +52,11 @@ https://fr.wikipedia.org/wiki/Représentation_graphique_de_données_statistiques
 Examples historiques
 http://jplusplus.github.io/guide-du-datajournalisme/pages/0706.html
 
+Diagramme en bâton du Français 20 ans plus tôt
+http://www.jpowered.com/graphs-and-charts/bar-chart-history.htm
+
 Différences entre diagrammes en batons et histogrammes
 http://mathematiques.ac-bordeaux.fr/profplus/docmaths/statistiques/artigues/chapitre2.pdf
+
+Pour les variantes 
+https://www.smashingmagazine.com/2017/03/understanding-stacked-bar-charts/
