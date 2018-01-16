@@ -9,7 +9,7 @@ Les bar chart, ou encore diagramme en bâtons sont des représentations très cl
 Le principal but des diagrammes en bâtons est de comparer des groupes de données entre elles.
 
 Il existe principalement deux types de diagrammes en bâtons :
-* les diagrammes en bâtons verticaux. On reprédente pour chaque modalité d'une variable discrète un rectangle dont la hauteur représente la valeur d'une variable continue et dont la largeur n'a pas d'importance. Ci-dessous se trouve un exemple très simple. 
+* les diagrammes en bâtons verticaux. On représente pour chaque modalité d'une variable discrète un rectangle dont la hauteur représente la valeur d'une variable continue et dont la largeur n'a pas d'importance. Ci-dessous se trouve un exemple très simple. 
 
 <image src="http://www.itse.be/statistique2010/res/Fig_org_04.jpg" alt="Histogramme Simple" width="400" align="center">
 
@@ -35,15 +35,15 @@ Par la suite, cette répresentation sera de nouveau utilisée par exemple par An
 
 ## Variantes
 
-Il existe plusieurs variantes des diragrammes en bâtons.
+Il existe plusieurs variantes des diagrammes en bâtons.
 
 * ### Diagrammes en bâtons empilés
 
-Le but des diagrammes en bâtons empilés est des comparer les totaux et d'identifier rapidement les variations au seins des catégories pour comprendre ce qui peut avoir affecté la variation globale. 
+Le but des diagrammes en bâtons empilés est de comparer les totaux et d'identifier rapidement les variations au sein des catégories pour comprendre ce qui peut avoir affecté la variation globale. 
 
 <image src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/948c895a-e1b1-4c8f-b7f3-e0555a4ae589/5-stacked-bar-chart-800w-opt.png" width="500" align="center">
 
-Par exemple pour l'exemple ci-dessous, on remariqe facielemnt que la stratégie 5 a été bien moins efficace que toutes les autres stratégies, et ceci est dû au fait que très peu de produit D on été vendus. 
+Par exemple pour l'exemple ci-dessous, on remarque facielemnt que la stratégie 5 a été bien moins efficace que toutes les autres stratégies, et ceci est dû au fait que très peu de produit D on été vendus. 
 
 * ### Diagrammes combinés
 
