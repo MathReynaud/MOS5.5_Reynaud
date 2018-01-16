@@ -23,14 +23,22 @@ William Playfar est un écossais qui a lui seul a développé un grand nombre de
 
 Ce diagramme illustre les différentes importations et exportations de l'Ecosse. 
 
+Cependant, le Français Nicole Oresme, avait déjà utilisé déjà 20 ans plus tôt une forme moins conventionnelle de diagramme en bâtons. C'est pourquoi certaines personnes lui attribu l'invention de ce diagramme. Grâce à ces diagrammes il avait représenté la vitesse d'un object en accélération constante en fonction du temps. 
+
+<image src="http://www.jpowered.com/graphs-and-charts/images/nicole-oresme-bar-charts-420x615.png" width="400" align="center">
+
 Par la suite, cette répresentation sera de nouveau utilisée par exemple par André-Michel Guerry en 1883 dans l'<I>Essai sur la statistiques morale de la France</I>.
 
 <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Essai_sur_la_statistique_morale_de_la_France%2C_Plate_VII%2C_1833.jpg/468px-Essai_sur_la_statistique_morale_de_la_France%2C_Plate_VII%2C_1833.jpg" width="400" align="center">
 
 
 
+
+Définition Générale
 https://fr.wikipedia.org/wiki/Représentation_graphique_de_données_statistiques
 
+Examples historiques
 http://jplusplus.github.io/guide-du-datajournalisme/pages/0706.html
 
+Différences entre diagrammes en batons et histogrammes
 http://mathematiques.ac-bordeaux.fr/profplus/docmaths/statistiques/artigues/chapitre2.pdf
