@@ -19,8 +19,7 @@ Il existe principalement deux types de diagrammes en bâtons :
   </tr>
   <tr>
     <td align="center" bgcolor="EFEFEF">
-      Histogramme Simple 
-    </td>
+      Diagramme en bâtons vertical </td>
   </tr>
 </table>
 
