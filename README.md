@@ -55,7 +55,7 @@ Cette fois-ci le total est représenté par un graphique linéaire. De manière 
 
 * ### Diagrammes en bâtons 3D
 
-Pour les personnes les plus fantaisistes, il existe des diagrammes en bâtons 3D. Ces derniers n'apportent pas plus d'informations, mais permettent de laisser libre cours à son imagination !
+Pour les personnes les plus fantaisistes, il existe des diagrammes en bâtons 3D. Ces derniers n'apportent en général pas plus d'informations, mais permettent de laisser libre cours à son imagination !
 Cela peut permettre de se placer par exemple dans un plan, mais il faut bien prendre garde à ne pas perdre toute lisibilité. 
 
 <image src="https://i.stack.imgur.com/BumCd.png" width="500" align="center">
