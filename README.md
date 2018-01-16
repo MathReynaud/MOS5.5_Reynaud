@@ -1,1 +1,9 @@
-# Interactive Data Visualization - Bar Chart
+# Interactive Data Visualization - Rendu n°1 
+
+# Bar Chart
+
+## Définition générale
+
+Les bar chart, ou encore diagramme en bâtons sont des représentations très classiques de données. 
+Il en existe principalement deux types :
+  - les diagrammes en bâtons vertical, ou encore histogramme. On reprédente pour chaque modalité d'une variable discrète un rectangle dont la hauteur représente la valeur d'une variable continue et dont la largeur n'a pas d'importance. Ci-dessous un exemple très simple. 
