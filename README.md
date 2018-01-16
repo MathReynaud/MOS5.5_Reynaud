@@ -37,7 +37,7 @@ Par la suite, cette répresentation sera de nouveau utilisée par exemple par An
 
 Il existe plusieurs variantes des diragrammes en bâtons.
 
-### Diagrammes en bâtons empilés
+* ### Diagrammes en bâtons empilés
 
 Le but des diagrammes en bâtons empilés est des comparer les totaux et d'identifier rapidement les variations au seins des catégories pour comprendre ce qui peut avoir affecté la variation globale. 
 
