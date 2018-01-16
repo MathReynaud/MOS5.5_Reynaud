@@ -41,9 +41,9 @@ Il existe plusieurs variantes des diragrammes en bâtons.
 
 Le but des diagrammes en bâtons empilés est des comparer les totaux et d'identifier rapidement les variations au seins des catégories pour comprendre ce qui peut avoir affecté la variation globale. 
 
-<image src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/948c895a-e1b1-4c8f-b7f3-e0555a4ae589/5-stacked-bar-chart-800w-opt.png" width="400" align="center">
+<image src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/948c895a-e1b1-4c8f-b7f3-e0555a4ae589/5-stacked-bar-chart-800w-opt.png" width="500" align="center">
 
-Par exmeple pour l'exemple ci-dessous, on remariqe facielemnt que la stratégie 5 a été bien moins efficace que toutes les autres stratégies, et ceci est dû au fait que très peu de produit D on été vendus. 
+Par exemple pour l'exemple ci-dessous, on remariqe facielemnt que la stratégie 5 a été bien moins efficace que toutes les autres stratégies, et ceci est dû au fait que très peu de produit D on été vendus. 
 
 
 Définition Générale
