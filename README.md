@@ -8,7 +8,7 @@ Les bar chart, ou encore diagramme en bâtons sont des représentations très cl
 
 Le principal but des diagrammes en bâtons est de comparer des groupes de données entre elles.
 
-Il en existe principalement deux types de diagrammes en bâtons :
+Il existe principalement deux types de diagrammes en bâtons :
 * les diagrammes en bâtons vertical. On reprédente pour chaque modalité d'une variable discrète un rectangle dont la hauteur représente la valeur d'une variable continue et dont la largeur n'a pas d'importance. Ci-dessous se trouve un exemple très simple. 
 
 <image src="http://www.itse.be/statistique2010/res/Fig_org_04.jpg" alt="Histogramme Simple" width="400" align="center">
