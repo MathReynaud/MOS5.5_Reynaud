@@ -51,7 +51,16 @@ Le diagramme combiné est une visualisation qui regroupe un diagramme en bâton 
 
 <image src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9cdfe396-4155-4e7f-9c70-6fb2e290b71d/7-combined-multi-series-bar-and-line-chart-800w-opt.png" width="500" align="center">
 
-Cette fois-ci le total est représenté par un graphique linéaire. De manière générale, ce genre de diagramme est souvent moins clair et des diagrammes en bâtons empilés permettent d'obtenir les mêmes informations avec une lecture plus facile. 
+Cette fois-ci le total est représenté par un graphique linéaire. De manière générale, ce genre de diagramme est souvent moins clair et des diagrammes en bâtons empilés permettent d'obtenir les mêmes informations avec une lecture plus facile.
+
+* ### Diagrammes en bâtons 3D
+
+Pour les personnes les plus fantaisistes, il existe des diagrammes en bâtons 3D. Ces derniers n'apportent pas plus d'informations, mais permettent de laisser libre cours à son imagination !
+Cela peut permettre de se placer par exemple dans un plan, mais il faut bien prendre garde à ne pas perdre toute lisibilité. 
+
+<image src="https://i.stack.imgur.com/BumCd.png" width="500" align="center">
+
+
 
 
 Définition Générale
