@@ -14,7 +14,7 @@ Il existe principalement deux types de diagrammes en bâtons :
 <table border="0">
   <tr>
     <td>
-     <image src="http://www.itse.be/statistique2010/res/Fig_org_04.jpg" width="400" align="center">
+     <image src="Images/Fig1_Vertical.jpg" width="400" align="center">
     </td>
   </tr>
   <tr>
