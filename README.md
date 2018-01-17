@@ -153,3 +153,4 @@ Les diagrammes en bâtons font parties des représenations visuelles les plus ut
 * <a href="http://www.jpowered.com/graphs-and-charts/bar-chart-history.htm">Diagramme en bâton du Français 20 ans plus tôt</a>
 * <a href="http://mathematiques.ac-bordeaux.fr/profplus/docmaths/statistiques/artigues/chapitre2.pdf">Différences entre diagrammes en batons et histogrammes</a>
 * <a href="https://www.smashingmagazine.com/2017/03/understanding-stacked-bar-charts/">Variantes de diagrammes</a>
+
