@@ -28,7 +28,7 @@ Il existe principalement deux types de diagrammes en bâtons :
 <table border="0">
   <tr>
     <td>
-     <image src="https://sites.google.com/site/rgraphiques/_/rsrc/1495529900208/realiser-des-graphiques-avec-le-logiciel-r/diagrammes-en-barres/diagramme-en-batons-a-barres-horizontales/Rplot001.jpg" width="400" align="center">
+     <image src="Images/Fig2_Horizontal.jpg" width="400" align="center">
     </td>
   </tr>
   <tr>
