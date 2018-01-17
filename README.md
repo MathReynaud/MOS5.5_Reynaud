@@ -45,7 +45,7 @@ William Playfar est un écossais qui a lui seul a développé un grand nombre de
 <table border="0">
   <tr>
     <td>
-     <image src="http://jplusplus.github.io/guide-du-datajournalisme/figs/incoming/06-TT-01.gif" alt="Premier diagramme bâton" width="400" align="center">
+     <image src="Images/Fig3_Premier.gif" alt="Premier diagramme bâton" width="400" align="center">
     </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ Cependant, le Français Nicole Oresme, avait déjà utilisé déjà 20 ans plus 
 <table border="0">
   <tr>
     <td>
-     <image src="http://www.jpowered.com/graphs-and-charts/images/nicole-oresme-bar-charts-420x615.png" width="400" align="center">
+     <image src="Images/Fig3_Premier2.png" width="400" align="center">
     </td>
   </tr>
   <tr>
@@ -75,7 +75,7 @@ Par la suite, cette répresentation sera de nouveau utilisée par exemple par An
 <table border="0">
   <tr>
     <td>
-     <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Essai_sur_la_statistique_morale_de_la_France%2C_Plate_VII%2C_1833.jpg/468px-Essai_sur_la_statistique_morale_de_la_France%2C_Plate_VII%2C_1833.jpg" width="400" align="center">
+     <image src="Images/Fig5_deuxieme.jpg" width="400" align="center">
     </td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ Le but des diagrammes en bâtons empilés est de comparer les totaux et d'identi
 <table border="0">
   <tr>
     <td>
-      <image src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/948c895a-e1b1-4c8f-b7f3-e0555a4ae589/5-stacked-bar-chart-800w-opt.png" width="500" align="center">
+      <image src="Images/Fig6_Empiles.png" width="500" align="center">
     </td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ Le diagramme combiné est une visualisation qui regroupe un diagramme en bâton 
 <table border="0">
   <tr>
     <td>
-      <image src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9cdfe396-4155-4e7f-9c70-6fb2e290b71d/7-combined-multi-series-bar-and-line-chart-800w-opt.png" width="500" align="center">
+      <image src="Images/Fig7_Combines.png" width="500" align="center">
     </td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ Cela peut permettre de se placer par exemple dans un plan, mais il faut bien pre
 <table border="0">
   <tr>
     <td>
-      <image src="https://i.stack.imgur.com/BumCd.png" width="500" align="center">
+      <image src="Images/Fig8_3D.png" width="500" align="center">
     </td>
   </tr>
   <tr>
