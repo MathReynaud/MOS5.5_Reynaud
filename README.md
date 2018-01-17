@@ -61,7 +61,7 @@ Cependant, le Français Nicole Oresme, avait déjà utilisé déjà 20 ans plus 
 <table border="0">
   <tr>
     <td>
-     <image src="Images/Fig3_Premier2.png" width="400" align="center">
+     <image src="Images/Fig4_Premier2.png" width="400" align="center">
     </td>
   </tr>
   <tr>
