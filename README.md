@@ -41,17 +41,48 @@ Il existe principalement deux types de diagrammes en bâtons :
 
 William Playfar est un écossais qui a lui seul a développé un grand nombre de graphiques que nous utilisons encore aujourd'hui. C'est en 1786, dans son livre <I>Commercial and Political Atlas</I> qu'il a crée le premier diagramme en bâtons. 
 
-<image src="http://jplusplus.github.io/guide-du-datajournalisme/figs/incoming/06-TT-01.gif" alt="Premier diagramme bâton" width="400" align="center">
+
+<table border="0">
+  <tr>
+    <td>
+     <image src="http://jplusplus.github.io/guide-du-datajournalisme/figs/incoming/06-TT-01.gif" alt="Premier diagramme bâton" width="400" align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+      Diagramme en bâton de William Playfar </td>
+  </tr>
+</table>
 
 Ce diagramme illustre les différentes importations et exportations de l'Ecosse. 
 
 Cependant, le Français Nicole Oresme, avait déjà utilisé déjà 20 ans plus tôt une forme moins conventionnelle de diagramme en bâtons. C'est pourquoi certaines personnes lui attribu l'invention de ce diagramme. Grâce à ces diagrammes il avait représenté la vitesse d'un object en accélération constante en fonction du temps. 
 
-<image src="http://www.jpowered.com/graphs-and-charts/images/nicole-oresme-bar-charts-420x615.png" width="400" align="center">
+<table border="0">
+  <tr>
+    <td>
+     <image src="http://www.jpowered.com/graphs-and-charts/images/nicole-oresme-bar-charts-420x615.png" width="400" align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+      Diagramme en bâton de Nicolas Oresme </td>
+  </tr>
+</table>
 
 Par la suite, cette répresentation sera de nouveau utilisée par exemple par André-Michel Guerry en 1883 dans l'<I>Essai sur la statistiques morale de la France</I>.
 
-<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Essai_sur_la_statistique_morale_de_la_France%2C_Plate_VII%2C_1833.jpg/468px-Essai_sur_la_statistique_morale_de_la_France%2C_Plate_VII%2C_1833.jpg" width="400" align="center">
+<table border="0">
+  <tr>
+    <td>
+     <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Essai_sur_la_statistique_morale_de_la_France%2C_Plate_VII%2C_1833.jpg/468px-Essai_sur_la_statistique_morale_de_la_France%2C_Plate_VII%2C_1833.jpg" width="400" align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+      Diagramme en bâton de André-Michel Guerry </td>
+  </tr>
+</table>
 
 ## Variantes
 
@@ -61,7 +92,17 @@ Il existe plusieurs variantes des diagrammes en bâtons.
 
 Le but des diagrammes en bâtons empilés est de comparer les totaux et d'identifier rapidement les variations au sein des catégories pour comprendre ce qui peut avoir affecté la variation globale. 
 
-<image src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/948c895a-e1b1-4c8f-b7f3-e0555a4ae589/5-stacked-bar-chart-800w-opt.png" width="500" align="center">
+<table border="0">
+  <tr>
+    <td>
+      <image src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/948c895a-e1b1-4c8f-b7f3-e0555a4ae589/5-stacked-bar-chart-800w-opt.png" width="500" align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+      Diagramme en bâtons empilés </td>
+  </tr>
+</table>
 
 Par exemple pour l'exemple ci-dessous, on remarque facielemnt que la stratégie 5 a été bien moins efficace que toutes les autres stratégies, et ceci est dû au fait que très peu de produit D on été vendus. 
 
@@ -69,7 +110,17 @@ Par exemple pour l'exemple ci-dessous, on remarque facielemnt que la stratégie 
 
 Le diagramme combiné est une visualisation qui regroupe un diagramme en bâton et un graphique linéaire. On peut par exemple reprendre l'exemple précédent pour obtenir les mêmes informations mais sous une forme différente. 
 
-<image src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9cdfe396-4155-4e7f-9c70-6fb2e290b71d/7-combined-multi-series-bar-and-line-chart-800w-opt.png" width="500" align="center">
+<table border="0">
+  <tr>
+    <td>
+      <image src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9cdfe396-4155-4e7f-9c70-6fb2e290b71d/7-combined-multi-series-bar-and-line-chart-800w-opt.png" width="500" align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+      Diagramme combiné </td>
+  </tr>
+</table>
 
 Cette fois-ci le total est représenté par un graphique linéaire. De manière générale, ce genre de diagramme est souvent moins clair et des diagrammes en bâtons empilés permettent d'obtenir les mêmes informations avec une lecture plus facile.
 
@@ -79,7 +130,17 @@ Pour les personnes les plus fantaisistes, il existe des diagrammes en bâtons 3D
 
 Cela peut permettre de se placer par exemple dans un plan, mais il faut bien prendre garde à ne pas perdre toute lisibilité. 
 
-<image src="https://i.stack.imgur.com/BumCd.png" width="500" align="center">
+<table border="0">
+  <tr>
+    <td>
+      <image src="https://i.stack.imgur.com/BumCd.png" width="500" align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+      Diagramme en bâtons 3D </td>
+  </tr>
+</table>
 
 ## Conclusion
 
